@@ -1,5 +1,13 @@
-# ATK_ErgoDox(分離式人體工學鍵盤)
+# ATK_CustomKeyboard(自製鍵盤)
 
-![](https://atkseegow.github.io/ATK_ErgoDox/assets/img/P_00000000_000001.jpg)
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241006_190546.jpg)
 
-![](https://atkseegow.github.io/ATK_ErgoDox/assets/img/P_00000000_000002.jpg)
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241006_185223.jpg)
+
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241006_185228.jpg)
+
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241006_185239.jpg)
+
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241008_084650.jpg)
+
+![](https://github.com/AtkSeeGow/ATK_CustomKeyboard/blob/dev/img/20241008_084701.jpg)
